@@ -1,2 +1,7 @@
+---
+name: Anti Reddit Shilling
+description: Hides subreddits primarily used for shilling
+homepage: https://github.com/falazi/ublackliststuff
+---
 *://*.reddit.com/r/vpns/*
 *://*.reddit.com/r/vpntorrents/*
